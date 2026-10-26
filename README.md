@@ -2,7 +2,7 @@
 
 An interactive **Looker Studio** dashboard analyzing six months of sales (Jan – Jun 2023) across three coffee shop locations in New York City. It turns raw transaction data into clear answers: *how much are we earning, what is selling, when are customers coming, and which store performs best?*
 
-🔗 **Live Dashboard:** [Open in Looker Studio]([YOUR_LOOKER_STUDIO_LINK_HERE](https://datastudio.google.com/reporting/6478f49e-8614-435e-b49a-a178820a0337))
+🔗 **Live Dashboard:** ([Open in Looker Studio](https://datastudio.google.com/reporting/6478f49e-8614-435e-b49a-a178820a0337))
 
 ---
 
