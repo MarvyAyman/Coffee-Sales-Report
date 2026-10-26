@@ -9,7 +9,7 @@ An interactive **Looker Studio** dashboard analyzing six months of sales (Jan â€
 ## ðŸ“¸ Dashboard Preview
 
 <!-- Upload your screenshot to the /images folder and keep this file name (or update the path) -->
-![Brew & Co. Dashboard](images/dashboard-overview.png)
+![Brew & Co. Dashboard](images/dashboard-overview.jpg)
 
 ---
 
